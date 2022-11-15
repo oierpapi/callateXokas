@@ -1,0 +1,31 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+
+ background-image: linear-gradient(46deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+height:100vh;
+}
+div.cont{
+  margin: auto;
+  margin-top: 140px;
+  background-image: linear-gradient(195deg, #c4d472 0, #cdcd68 6.25%, #d6c55f 12.5%, #ddbc56 18.75%, #e3b24e 25%, #e9a647 31.25%, #ed9941 37.5%, #f08a3e 43.75%, #f2793c 50%, #f3673d 56.25%, #f45442 62.5%, #f33f4a 68.75%, #f22753 75%, #ef005f 81.25%, #eb006c 87.5%, #e5007a 93.75%, #dd008a 100%);
+  border-radius:  50%;
+
+}
+h1{
+  cursor: pointer; 
+  font-family: monospace;
+  padding: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-size: 50px;
+  color: white;
+  transition-duration: 0.4s;
+}
+h1:hover{
+  transition-duration: 0.4s;
+  color:black;
+}
+
